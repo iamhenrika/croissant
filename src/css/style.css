@@ -1,0 +1,24 @@
+body {
+  background: #f8e8a6;
+}
+
+h1, p {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  color: #008000;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #008000;
+}
